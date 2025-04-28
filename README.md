@@ -15,9 +15,11 @@
 
 ## Hi there 👋
 
- My name is Nir Froimovich, and I'm a 4th-year software engineering student at Braude College of Engineering.
+ My name is Nir Froimovich, and I'm a 4th-year software engineering student at Braude College of Engineering. 🎓
 
  Coding is my passion, always looking for challenges and learn new technologies.
+
+ 2nd-place Hackathon winner by IBM. 🥈
 
 ## Languages </>
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=eclipse&logoColor=ffdd54)
