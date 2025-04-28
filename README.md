@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/nir-froimovich-33156a185/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.facebook.com/nir.froimovich/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+
 </div>
 
 ## Hi there 👋
@@ -35,4 +39,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Top Projects 🧑🏻‍💻
+<a href="https://github.com/CoderxX22/WEB_poject" target="blank">HealthVisualizer</a>
+Project - A Website for both doctors and patients to track their health data
+- Controlling patients' status and appointments by doctors.
+- A user-based website to make different restrictions.
+- Using tools and frameworks like NextJS, Firebase.
+
+<a href="https://github.com/CoderxX22/WEB_poject" target="blank">HealthVisualizer</a>
+Project - A Website for both doctors and patients to track their health data
+- Controlling patients' status and appointments by doctors.
+- A user-based website to make different restrictions.
+- Using tools and frameworks like NextJS, Firebase.
+
+<a href="https://github.com/CoderxX22/Profoilo" target="blank">My-Portfolio</a>
+Project - A Website to make a first impression about me and my coding.
+- Dark-mode component affects the all site.
+- Firebase Analytics to follow the number of users on the site in real-time.
+- EmailJS functionality to contact me through the website.
+- Using tools and frameworks like ReactJS, Firebase, and EmailJS.
 
